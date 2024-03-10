@@ -1,3 +1,7 @@
+# Requirements
+
+- Python 3.11
+
 # Endpoints
 
 - Auction Item list: GET http://localhost:8000/api/auction
